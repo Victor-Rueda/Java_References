@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class assignment_6 {
+public class Conversions {
 	
 	public static void menu() {
 		System.out.println( "1. Convert to Kilometers\n2. Convert to Feet\n3. Convert to Inches\n4. Quit the program.");
